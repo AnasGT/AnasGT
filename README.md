@@ -23,7 +23,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision,
 https://www.linkedin.com/in/anas-alasmar-a76211302
 
 📷 Instagram  
-https://www.instagram.com/anas_alasmar_
+https://www.instagram.com/_anas_alasmar
 
 📧 Email  
 anasalasmar10@gmail.com
