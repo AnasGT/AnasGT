@@ -1,9 +1,42 @@
-## Connect with me
+# Hi, I'm Anas Alasmar 👋
 
-🔗 LinkedIn: https://linkedin.com/in/yourusername
+### AI Engineer & Software Developer
 
-📧 Email: your@email.com
+I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development. I enjoy building intelligent systems, mobile applications, and scalable software solutions.
 
-🌐 Portfolio: https://yourwebsite.com
+## 🚀 Skills
 
-📸 Instagram: https://instagram.com/yourusername
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Computer Vision
+- Python
+- Flutter & Dart
+- Node.js
+- Firebase
+- FastAPI
+- React
+- Git & GitHub
+
+## 📫 Connect with Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/anas-alasmar-a76211302
+
+📷 Instagram  
+https://www.instagram.com/anas_alasmar_
+
+📧 Email  
+anasalasmar10@gmail.com
+
+## 🔥 Interests
+
+- AI-Powered Applications
+- Computer Vision Projects
+- Mobile App Development
+- Intelligent Agents
+- Entrepreneurship & Startups
+- Robotics and Automation
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
