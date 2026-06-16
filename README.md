@@ -1,20 +1,18 @@
 # Hi, I'm Anas Alasmar 👋
 
-### AI Engineer & Software Developer
+### AI Engineer | Flutter Developer
 
-I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development. I enjoy building intelligent systems, mobile applications, and scalable software solutions.
+I build intelligent systems and AI-powered applications, with a focus on Machine Learning, Computer Vision, and cross-platform mobile development using Flutter.
 
-## 🚀 Skills
+## 🚀 Tech Stack
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
+- AI & Machine Learning
 - Computer Vision
 - Python
 - Flutter & Dart
-- Node.js
 - Firebase
 - FastAPI
-- React
+- Node.js
 - Git & GitHub
 
 ## 📫 Connect with Me
